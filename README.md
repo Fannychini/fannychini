@@ -5,9 +5,9 @@ My name is Fanny and I am part of the Cancer Health Services Research at the [Un
 I leverage linked data sources collected in various forms within the healthcare continuum to improve precision medicine for cancer patients and reduce the burden of disease. My goal is to generate meaningful and actionable clinical insights. 
 
 - 🔭 I’m currently working on mapping treatment sequences in several cancers and analysing patient outcomes
-<!-- - 👯 I collaborate on ... -->
 - 📈 R, Python, SQL
 <!--- 🌱 I’m currently learning ... -->
+<!-- - 👯 I collaborate on ... -->
 
  --- 
 - 💬 Ask me about: immunology, cancer research and predictive modeling
