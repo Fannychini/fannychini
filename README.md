@@ -12,7 +12,7 @@ I leverage linked data sources collected in various forms within the healthcare 
  --- 
 - 💬 Ask me about: immunology, cancer research and predictive modeling
 - 📫 How to reach me: [Twitter](https://twitter.com/Fannychini)
-- ⚡ Good to know: 
+- ⚡ About me: 
   * Wildlife advocate 
   * Joey & Friends :otter:
   * Climate Reality Leader 🌱 
