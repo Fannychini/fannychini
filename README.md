@@ -14,7 +14,7 @@ I leverage linked data sources collected in various forms within the healthcare 
 - 📫 How to reach me: [Twitter](https://twitter.com/Fannychini)
 - ⚡ About me: 
   * Wildlife advocate 
-  * [Joey & Friends](https://www.twitch.tv/moderator/marinemammalrescue) :otter:
+  * [Joey & Friends](https://www.twitch.tv/marinemammalrescue) :otter:
   * Climate Reality Leader 🌱 
   * Passionate about the microbiome 
 
