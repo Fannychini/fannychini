@@ -11,12 +11,13 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@v3.2.0
         id: snake-gif
-with:
+        with:
           github_user_name: fannychini
           svg_out_path: dist/github-contribution-grid-snake.svg
-          uses: Platane/snk/svg-only@v3
-            with:
-            target_branch: output
-            build_dir: dist
+          
+      - uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
