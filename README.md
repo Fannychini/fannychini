@@ -18,7 +18,7 @@ I leverage linked data sources collected in various forms within the healthcare 
   * Climate Reality Leader 🌱 
   * Passionate about the microbiome 
 
-![Snake animation](https://github.com/fannychini/fannychini/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fannychini/fannychini/raw/output/github-contribution-grid-snake.svg)
 
 
 
