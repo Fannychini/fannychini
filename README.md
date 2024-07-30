@@ -43,13 +43,15 @@ I leverage linked data sources collected in various forms within the healthcare 
 - [Inequities in cancer care]: watch this space for our next models `starting soon`
 
 ### My passions 🧡
-`Microbiome` <br>
-`Wildlife advocate` <br>
-`Hiking` <br>
-`Bouldering` <br>
-`Climate Reality Leader 🌱` <br>
-`Painting` <br>
-`My bunny Ninja 🐰` <br>
+```md
+Microbiome
+Wildlife advocate 
+Hiking 
+Bouldering 
+Climate Reality Leader 🌱 
+Painting 
+My bunny Ninja 🐰 
+```
 
 --- 
 
