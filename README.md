@@ -18,10 +18,11 @@ I leverage linked data sources collected in various forms within the healthcare 
   * Climate Reality Leader 🌱 
   * Passionate about the microbiome 
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fannychini/fannychini/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fannychini/fannychini/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/fannychini/fannychini/raw/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
